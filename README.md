@@ -1,4 +1,4 @@
-# torch-evaluation-metrics-tutoria
+# Tutorial: Training, Validation and Accuracy in PyTorch
 
 This repository contains the code corresponding to the blog tutorial found [here](blog.paperspace.com/training-validation-and-accuracy-in-pytorch/)
 
